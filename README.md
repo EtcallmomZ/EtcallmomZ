@@ -22,5 +22,4 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EtcallmomZ&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
 </p
 
-
-[![Eiweiw's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EtcallmomZ&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trouphy](https://github-profile-trophy.vercel.app/?username=EtcallmomZ&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
