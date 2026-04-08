@@ -14,9 +14,9 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EtcallmomZ&show_icons=true&theme=tokyonight" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EtcallmomZ&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EtcallmomZ&show_icons=true&theme=tokyonight" alt="Stats" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EtcallmomZ&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
+</p
 
 
 ### 📫 How to reach me
