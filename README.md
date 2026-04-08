@@ -2,6 +2,8 @@
 
 ### 🎓 Information of Technolgy Student @KMITL
 
+
+
 ### 🛠 Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -11,6 +13,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+### 📫 How to reach me
+- **Email:** eiweiw321@gmail.com
 
 ### 📊 GitHub Stats
 <p align="left">
@@ -19,5 +23,4 @@
 </p
 
 
-### 📫 How to reach me
-- **Email:** eiweiw321@gmail.com
+[![Eiweiw's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EtcallmomZ&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
