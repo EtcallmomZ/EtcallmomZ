@@ -19,6 +19,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EtcallmomZ&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
 </p
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Hi+there!+I'm+a+Slytherin+Head+Girl;Developing+the+future+with+Python;Java+Game+Dev+%7C+Hall+of+Fame)](https://git.io/typing-svg)
 
 ### 📫 How to reach me
 - **Email:** eiweiw321@gmail.com
