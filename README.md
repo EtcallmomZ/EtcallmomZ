@@ -1,6 +1,6 @@
 ### 🎓 Information of Technolgy Student @KMITL
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Hi+there!+I'm+Natcha+Thammeakkahphap;Student+from+IT+@KMITL;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Hi+there!+I'm+Eiweiw;Student+from+IT+@KMITL;)](https://git.io/typing-svg)
 
 
 ### 🛠 Tech Stack & Tools
