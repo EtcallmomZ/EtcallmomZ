@@ -1,5 +1,3 @@
-### 🎓 Information of Technolgy Student @KMITL
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Hi+there!+I'm+Eiweiw;Student+from+IT+@KMITL;)](https://git.io/typing-svg)
 
 
@@ -23,8 +21,10 @@
 
 <br></br>
 <div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31aj7sujzasxazr4cpvifrz5yarm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+<h2 >Music is my DRUG </h2>
+  
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31aj7sujzasxazr4cpvifrz5yarm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" style="opacity: 0.7;" />
 </a>
 </div>
 
