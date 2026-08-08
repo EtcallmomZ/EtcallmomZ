@@ -23,9 +23,6 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26flDMmYly4qC1Aek/giphy.gif" width="300px" alt="Rocket">
-  
-  <br><br>
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31aj7sujzasxazr4cpvifrz5yarm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
