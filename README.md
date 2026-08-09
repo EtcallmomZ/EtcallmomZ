@@ -24,7 +24,7 @@
 <h2 >Music is my DRUG </h2>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31aj7sujzasxazr4cpvifrz5yarm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31aj7sujzasxazr4cpvifrz5yarm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31aj7sujzasxazr4cpvifrz5yarm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light">
   </a>
 </p>
 </div>
