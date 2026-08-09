@@ -22,10 +22,11 @@
 <br></br>
 <div align="center">
 <h2 >Music is my DRUG </h2>
-<a href="https://open.spotify.com/user/31aj7sujzasxazr4cpvifrz5yarm" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31aj7sujzasxazr4cpvifrz5yarm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=f0f2f2&interchange=false&profanity=false&hide_remaster=false&bar_color=121212&bar_color_cover=false" alt="spotify-github-profile" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31aj7sujzasxazr4cpvifrz5yarm&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light">
+  </a>
+</p>
 </div>
 
 <br></br>
